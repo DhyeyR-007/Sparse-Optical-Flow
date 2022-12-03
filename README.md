@@ -34,6 +34,10 @@ The Lucas Kanade algorithm usually suffers from some abrupt movements due to lim
 Practical:
 In the files attached above
 
+Result Screenshot:
+![image](https://user-images.githubusercontent.com/86003669/205465706-6b112177-1c3d-4b5a-b89c-a1c126cf13a7.png)
+
+
 
 Optical Flow applications:
 Optical Flow can be used in many areas where the object’s motion information is crucial. Optical Flow is commonly found in video editors for compression, stabilization, slow-motion, etc. Also, Optical Flow finds its application in Action Recognition tasks and real-time tracking systems.
