@@ -34,7 +34,9 @@ The Lucas Kanade algorithm usually suffers from some abrupt movements due to lim
 Practical:
 In the files attached above
 
-Result Screenshot:
+Result Screenshot: You can change the quality, window size, min distance, block size, maximum corners and other lk or feature params.(in the code) to even accomodate flow tracking of vehicles in the background.
+
+
 ![image](https://user-images.githubusercontent.com/86003669/205465706-6b112177-1c3d-4b5a-b89c-a1c126cf13a7.png)
 
 
